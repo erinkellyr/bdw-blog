@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+       "title":  "Why We Need to Doodle",
+       "description": "I’ve always been a big doodler. Every notebook that I kept from high school and college is filled with shapes, lines, swirls, dots…",
+       "url": "https://medium.com/re-write/why-we-need-to-doodle-5c710ae78d22",
+       "guid": "1", 
+       "categories": ["BDW","Design","Drawing","Doodles"],  
+       "author": "Erin Rhodes",  
+       "date": "February 15, 2015"
+    },
+    {
+       "title":  "Learning to Become a Better Designer and Setting Guidelines for Myself",
+       "description": "My goal after BDW is to become a visual designer. ",
+       "url": "http://example.com/article4?this&that",
+       "guid": "2", 
+       "categories": ["BDW","Design","Visual Design","Visual"],  
+       "author": "Erin Rhodes",  
+       "date": "March 19, 2015"
+    }
+  ]
+}
