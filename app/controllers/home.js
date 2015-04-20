@@ -16,3 +16,31 @@ router.get('/', function (req, res, next) {
     });
   });
 });
+
+
+router.get('/work', function (req, res, next) {
+  res.render('index', {
+      title: 'work',
+    });
+});
+
+
+router.get('/portfolio', function (req, res, next) {
+  res.render('index', {
+      title: 'hello',
+    });
+});
+
+
+router.get('/about', function (req, res, next) {
+  res.render('index', {
+      title: 'blah',
+    });
+});
+
+
+router.get('/contact', function (req, res, next) {
+  res.render('index', {
+      title: 'blah',
+    });
+});
